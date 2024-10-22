@@ -31,12 +31,16 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "left"
+    align: "center"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Edgar Chicurel"
+    button:
+      enable: true
+      text: "follow"
+      url: "https://chicurel.github.io/"
 
 # Site footer
 footer:
