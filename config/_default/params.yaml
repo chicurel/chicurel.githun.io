@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: dark
+  color: zinc
 
 # SEO
 marketing:
@@ -31,6 +31,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "left"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
