@@ -176,6 +176,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Welcome to my website
-
-As an experienced econometrician and macroeconomist, I am dedicated to using data-driven analysis to inform monetary and financial policy in the European Union. I specialize in working with large data sets and interpreting the results to make informed decisions. My ultimate goal is to master the most advanced tools in this field and make a significant impact on current policy issues.
+Welcome to my website. I am a research assistant currently working at [CSIC - IPP](https://www.ipp.csic.es/).
+As an experienced econometrician and macroeconomist, I am dedicated to using data-driven analysis to inform monetary and financial policy in the European Union. I specialize in working with large data sets and interpreting the results to make informed decisions. My ultimate goal is to master the most advanced tools in this field and make a significant impact on current policy issues. 
