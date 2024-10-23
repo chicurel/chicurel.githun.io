@@ -47,37 +47,21 @@ interests:
   - Data analysis
 
 education:
-  - area: Master in Computational Social Science
+  - area: MSc in Computational Social Science
     institution: Universidad Carlos III
     date_start: 2022-08-01
     date_end: 2023-07-01
     summary: |
       The Master in Computational Social Science is a specialized program that focuses on training students in advanced computational and quantitative analysis techniques for the study of social sciences. With the increasing use of digital technology in society, the field of computational social science has emerged as a way to analyze and understand human behavior and society through the use of predictive modeling, text analysis, and network science. The program equips students with the skills needed to lead and manage interdisciplinary teams in this field. https://www.uc3m.es/master/computational-social-science
-    button:
+    button: program
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Economics
+    institution: Universidad Carlos III
+    date_start: 2018-08-01
+    date_end: 2022-07-01
+    summary: Bachelor in Economics specializing in Quantitative Economics and Macroeconomics.
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
