@@ -37,6 +37,7 @@ profiles:
     url: https://github.com/chicurel
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/edgar-chicurel-flores/
+  
 
 interests:
   - Econometrics
@@ -46,12 +47,12 @@ interests:
   - Data analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Computational Social Science
+    institution: Universidad Carlos III
+    date_start: 2022-08-01
+    date_end: 2023-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      The Master in Computational Social Science is a specialized program that focuses on training students in advanced computational and quantitative analysis techniques for the study of social sciences. With the increasing use of digital technology in society, the field of computational social science has emerged as a way to analyze and understand human behavior and society through the use of predictive modeling, text analysis, and network science. The program equips students with the skills needed to lead and manage interdisciplinary teams in this field. https://www.uc3m.es/master/computational-social-science
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
