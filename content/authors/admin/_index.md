@@ -40,11 +40,12 @@ profiles:
   
 
 interests:
-  - Econometrics
-  - Text minning
-  - Web scraping
-  - R
-  - Data analysis
+  - icon: brands/github
+    - Econometrics
+    - Text minning
+    - Web scraping
+    - R
+    - Data analysis
 
 education:
   - area: MSc in Computational Social Science
