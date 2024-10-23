@@ -21,7 +21,7 @@ sections:
     design:
       css_class: 
       background:
-        color: #b0c4b1
+        color: "#b0c4b1"
   - block: markdown
     content:
       title: '📚 My Research'
