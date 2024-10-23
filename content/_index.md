@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/cv.pdf
     design:
-      css_class: zinc
+      css_class: 
       background:
-        color: zinc
+        color: 
   - block: markdown
     content:
       title: '📚 My Research'
