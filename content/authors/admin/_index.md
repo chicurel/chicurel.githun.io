@@ -21,8 +21,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Economist and Data Scientist
-highlight_role: false
-
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
