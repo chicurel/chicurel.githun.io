@@ -23,5 +23,5 @@ main:
     url: /#contact
     weight: 30
   - name: CV
-    url: CV/
+    url: /cv.pdf
     weight: 40
