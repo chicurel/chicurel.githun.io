@@ -36,7 +36,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured
       filters:
         folders:
           - publication
