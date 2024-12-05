@@ -41,9 +41,11 @@ profiles:
 
 interests:
   - Econometrics
+  - Research
   - Text minning
   - Web scraping
   - R
+  - Python
   - Data analysis
 
 education:
