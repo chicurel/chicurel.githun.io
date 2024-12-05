@@ -34,12 +34,12 @@ header:
     align: "left"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Edgar Chicurel"
     button:
       enable: true
-      text: "follow"
+      text: "github"
       url: "https://chicurel.github.io/"
 
 # Site footer
