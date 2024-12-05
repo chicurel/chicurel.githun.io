@@ -57,7 +57,7 @@ education:
       The Master in Computational Social Science is a specialized program that focuses on training students in advanced computational and quantitative analysis techniques for the study of social sciences. With the increasing use of digital technology in society, the field of computational social science has emerged as a way to analyze and understand human behavior and society through the use of predictive modeling, text analysis, and network science. The program equips students with the skills needed to lead and manage interdisciplinary teams in this field. https://www.uc3m.es/master/computational-social-science
     button: 
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.uc3m.es/master/computational-social-science'
   - area: BSc in Economics
     institution: Universidad Carlos III
     date_start: 2018-08-01
